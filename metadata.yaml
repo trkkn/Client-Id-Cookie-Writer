@@ -1,5 +1,5 @@
 homepage: "https://www.trkkn.com/"
 documentation: "https://github.com/trkkn/Client-Id-Cookie-Writer/blob/main/README.md"
 versions:
-  - sha: ba814d85f1a1c0b7ed202f895970c9f2db483dbe
+  - sha: b441113e5316cfc881c5126b4a16ea088f9abdf9
     changeNotes: Initial release.
