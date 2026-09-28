@@ -10,6 +10,7 @@
   "containerContexts": [
     "SERVER"
   ]
+  "categories": ["UTILITY", "ANALYTICS"],
 }
 
 
