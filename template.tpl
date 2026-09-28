@@ -1,4 +1,12 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "type": "TAG",
@@ -9,8 +17,11 @@
   "description": "Writes the Google Analytics / Server-Managed Client ID (derived from Event Data or the HttpOnly FPID cookie) into a JavaScript-accessible (non-HttpOnly) browser cookie.",
   "containerContexts": [
     "SERVER"
-  ]
-  "categories": ["UTILITY", "ANALYTICS"],
+  ],
+  "brand": {
+    "displayName": "TRKKN",
+    "id": "brand_custom_template"
+  }
 }
 
 
